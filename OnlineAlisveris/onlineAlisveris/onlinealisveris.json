@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "description": "Asus Zenbook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": "5000",
+      "categoryID": "1",
+      "id": "1"
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "buzdolabı açıklama",
+      "imageUrl": "https://images.unsplash.com/photo-1597502321303-ac7965ad7e8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=293&q=80",
+      "price": "3000",
+      "categoryID": "2",
+      "id": "2"
+    },
+    {
+      "name": "Mouse",
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+      "price": "12",
+      "categoryID": "1",
+      "id": "3"
+    },
+    {
+      "name": "Televizyon",
+      "description": "Arçelik",
+      "imageUrl": "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80",
+      "price": "4000",
+      "categoryID": "2",
+      "id": "4"
+    },
+    {
+      "name": "Televizyon",
+      "description": "eeee",
+      "imageUrl": "https://images.unsplash.com/photo-1577979749830-f1d742b96791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "4000",
+      "categoryID": "3",
+      "id": "5"
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Güzel bir ürün",
+      "imageUrl": "https://images.unsplash.com/photo-1630459065645-549fe5a56db4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "2000",
+      "categoryID": "2",
+      "id": "6"
+    },
+    {
+      "name": "Masa",
+      "description": "Masa çok kullanışlı",
+      "imageUrl": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "price": "1000",
+      "categoryID": "4",
+      "id": "7"
+    },
+    {
+      "name": "deneme",
+      "description": "assfd asdfds",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": "10000",
+      "categoryID": "2",
+      "id": "8"
+    },
+    {
+      "name": "tablet",
+      "description": "Güzel bir tablet",
+      "imageUrl": "https://images.unsplash.com/photo-1542751110-97427bbecf20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=784&q=80",
+      "price": "1500",
+      "categoryID": "2",
+      "id": "9"
+    },
+    {
+      "name": "saat",
+      "description": "bu saat çok iyi",
+      "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+      "price": "500",
+      "categoryID": "2",
+      "id": "10"
+    },
+    {
+      "name": "Bilgisayar",
+      "description": "Kod yazılabilecek kadar iyi",
+      "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": "1500",
+      "categoryID": "2",
+      "id": "os7eBtB"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "İletişim"
+    },
+    {
+      "id": 4,
+      "name": "Müzik"
+    },
+    {
+      "id": 5,
+      "name": "İçecek"
+    }
+  ]
+}
